@@ -99,4 +99,4 @@ If for any reason you don't see the learn-env option in the drop-down list of ke
 
 ## Summary
 
-Congratulations! If you've gotten this far and everything has worked, you have successfully set up a virtual environment which will serve as a great baseline setup for working as a professional data scientist!
+Finished! Congratulations! If you've gotten this far and everything has worked, you have successfully set up a virtual environment which will serve as a great baseline setup for working as a professional data scientist!
